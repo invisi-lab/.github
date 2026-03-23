@@ -1,22 +1,32 @@
 # Invisi Labs
 
-**[English](README.md)** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
+**[English](README.md)** · [繁體中文](README.zh-TW.md)
 
-> Break the boundaries of commercial privacy. Build frictionless, compliant settlement infrastructure.
+> Spend Crypto, Stay Invisible.
 
-**Invisi Labs** focuses on privacy-first settlement and payment infrastructure powered by zero-knowledge proofs. Our flagship product **InvisiPay** is the world's first **Noir**-driven commercial privacy settlement layer, offering merchants, cross-border businesses, and Web3 institutions privacy-first, on-chain verifiable, and compliance-auditable settlement.
+**Invisi Labs** builds privacy-first payment infrastructure powered by zero-knowledge proofs.
+Our flagship product **InvisiPay** lets anyone spend crypto privately at 80M+ merchants across
+180+ countries — with instant settlement, self-custody, and compliance-ready auditability.
 
-### Focus
+### Products
 
-| Focus | Description |
-|-------|-------------|
-| **Privacy-first** | Amounts and parties are hidden via ZK; only proofs and commitments live on-chain, no plaintext. |
-| **Frictionless & compliant** | Payment UX matches common checkout flows; View Key and related tools meet regulatory and audit needs. |
-| **Infrastructure** | Reusable privacy settlement protocol and standards, multi-chain and multi-asset ready. |
+| Product | Description |
+|---------|-------------|
+| **U-Card** | Visa/Mastercard-compatible crypto debit card. Spend stablecoins anywhere, settled in local currency in under 3 seconds. |
+| **Mobile App** | Non-custodial wallet with scan-to-pay, shielded change management, and external wallet support. |
+| **OTC Exchange** | Fiat ↔ crypto conversion via bank transfer, Alipay, and WeChat Pay. |
+
+### Technology
+
+| Pillar | Description |
+|--------|-------------|
+| **ZK Privacy** | Transaction amounts and parties are shielded via Noir ZK circuits. Only proofs and commitments live on-chain — no plaintext. |
+| **Compliance** | View Key and audit tools let regulators and merchants verify without exposing private data. |
+| **Infrastructure** | Invisible Protocol — a reusable, chain-agnostic privacy settlement layer across Ethereum, Arbitrum, Base, and Solana. |
 
 ### Links
 
-- **Website**: [InvisiPay.finance](https://invisipay.finance)
+- **Website**: [invisipay.fi](https://www.invisipay.fi)
 - **Contact**: [contact@invisi.work](mailto:contact@invisi.work)
 
 *Privacy-first settlement, verified on-chain.*
